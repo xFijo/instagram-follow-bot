@@ -14,3 +14,6 @@ how to use:
 • run the *unfollow.js* script in the console again.
 • wait for it to complete.
 • wait a few hours and you should start racking up some followers!
+
+
+*for more help, visit one of my discord servers on my [front page](https://github.com/xFijo) and send me a dm! (xFijo#0999)*
