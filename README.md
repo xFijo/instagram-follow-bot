@@ -2,7 +2,8 @@
 Simple javascript script to automate following users and unfollwer users. can be used to help gain followers
 
 
-how to use:\n 
+how to use:
+
 • go to https://instagram.com/
 • log in.
 • go to the "suggested" tab where a list of users suggested for you to follow are.
