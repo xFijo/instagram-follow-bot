@@ -4,7 +4,7 @@ Simple javascript script to automate following users and unfollwer users. can be
 
 how to use:
 
-• go to [Instagram Website.](https://instagram.com/)
+• go to the [Instagram Website.](https://instagram.com/)
 
 • log in.
 
